@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+NoDisplay=true
+Exec=tar -jxvf %f
+Name=tar -jxvf
+Comment=tar -jxvf 的自定义
