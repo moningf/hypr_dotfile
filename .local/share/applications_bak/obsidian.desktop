@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Obsidian
-Exec=obsidian --ozone-platform=wayland --enable-wayland-ime 
+Exec=/home/moningf/.local/myscripts/obsidian-launch.sh %U
 Terminal=false
 Type=Application
 Icon=obsidian
